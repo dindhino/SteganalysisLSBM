@@ -1,0 +1,670 @@
+---------- No Attack ----------
+Payload: 15%
+Area Under the Curve	: 0.500000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			21		21
+Cover			179		179
+
+Accuracy					: 50.000000%
+True Positive Rate			: 10.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 89.500000%
+Positive Predictive Value	: 50.000000%
+Negative Predictive Value	: 50.000000%
+False Discovery Rate		: 50.000000%
+False Omission Rate			: 50.000000%
+
+
+Payload: 25%
+Area Under the Curve	: 0.500000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			21		21
+Cover			179		179
+
+Accuracy					: 50.000000%
+True Positive Rate			: 10.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 89.500000%
+Positive Predictive Value	: 50.000000%
+Negative Predictive Value	: 50.000000%
+False Discovery Rate		: 50.000000%
+False Omission Rate			: 50.000000%
+
+
+Payload: 50%
+Area Under the Curve	: 0.500000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			21		21
+Cover			179		179
+
+Accuracy					: 50.000000%
+True Positive Rate			: 10.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 89.500000%
+Positive Predictive Value	: 50.000000%
+Negative Predictive Value	: 50.000000%
+False Discovery Rate		: 50.000000%
+False Omission Rate			: 50.000000%
+
+
+Payload: 75%
+Area Under the Curve	: 0.500000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			21		21
+Cover			179		179
+
+Accuracy					: 50.000000%
+True Positive Rate			: 10.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 89.500000%
+Positive Predictive Value	: 50.000000%
+Negative Predictive Value	: 50.000000%
+False Discovery Rate		: 50.000000%
+False Omission Rate			: 50.000000%
+
+
+Payload: 100%
+Area Under the Curve	: 0.500000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			21		21
+Cover			179		179
+
+Accuracy					: 50.000000%
+True Positive Rate			: 10.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 89.500000%
+Positive Predictive Value	: 50.000000%
+Negative Predictive Value	: 50.000000%
+False Discovery Rate		: 50.000000%
+False Omission Rate			: 50.000000%
+
+
+---------- Noise Salt & Pepper ----------
+Payload: 15%
+Area Under the Curve	: 0.995000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			200		21
+Cover			0		179
+
+Accuracy					: 94.750000%
+True Positive Rate			: 100.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 0.000000%
+Positive Predictive Value	: 90.497738%
+Negative Predictive Value	: 100.000000%
+False Discovery Rate		: 9.502262%
+False Omission Rate			: 0.000000%
+
+
+Payload: 25%
+Area Under the Curve	: 0.995000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			200		21
+Cover			0		179
+
+Accuracy					: 94.750000%
+True Positive Rate			: 100.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 0.000000%
+Positive Predictive Value	: 90.497738%
+Negative Predictive Value	: 100.000000%
+False Discovery Rate		: 9.502262%
+False Omission Rate			: 0.000000%
+
+
+Payload: 50%
+Area Under the Curve	: 0.995000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			200		21
+Cover			0		179
+
+Accuracy					: 94.750000%
+True Positive Rate			: 100.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 0.000000%
+Positive Predictive Value	: 90.497738%
+Negative Predictive Value	: 100.000000%
+False Discovery Rate		: 9.502262%
+False Omission Rate			: 0.000000%
+
+
+Payload: 75%
+Area Under the Curve	: 0.995000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			200		21
+Cover			0		179
+
+Accuracy					: 94.750000%
+True Positive Rate			: 100.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 0.000000%
+Positive Predictive Value	: 90.497738%
+Negative Predictive Value	: 100.000000%
+False Discovery Rate		: 9.502262%
+False Omission Rate			: 0.000000%
+
+
+Payload: 100%
+Area Under the Curve	: 0.995000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			200		21
+Cover			0		179
+
+Accuracy					: 94.750000%
+True Positive Rate			: 100.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 0.000000%
+Positive Predictive Value	: 90.497738%
+Negative Predictive Value	: 100.000000%
+False Discovery Rate		: 9.502262%
+False Omission Rate			: 0.000000%
+
+
+---------- Noise Gaussian ----------
+Payload: 15%
+Area Under the Curve	: 0.500000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			200		200
+Cover			0		0
+
+Accuracy					: 50.000000%
+True Positive Rate			: 100.000000%
+True Negative Rate			: 0.000000%
+False Positive Rate			: 100.000000%
+False Negative Rate			: 0.000000%
+Positive Predictive Value	: 50.000000%
+Negative Predictive Value	: NaN%
+False Discovery Rate		: 50.000000%
+False Omission Rate			: NaN%
+
+
+Payload: 25%
+Area Under the Curve	: 0.500000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			200		200
+Cover			0		0
+
+Accuracy					: 50.000000%
+True Positive Rate			: 100.000000%
+True Negative Rate			: 0.000000%
+False Positive Rate			: 100.000000%
+False Negative Rate			: 0.000000%
+Positive Predictive Value	: 50.000000%
+Negative Predictive Value	: NaN%
+False Discovery Rate		: 50.000000%
+False Omission Rate			: NaN%
+
+
+Payload: 50%
+Area Under the Curve	: 0.500000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			200		200
+Cover			0		0
+
+Accuracy					: 50.000000%
+True Positive Rate			: 100.000000%
+True Negative Rate			: 0.000000%
+False Positive Rate			: 100.000000%
+False Negative Rate			: 0.000000%
+Positive Predictive Value	: 50.000000%
+Negative Predictive Value	: NaN%
+False Discovery Rate		: 50.000000%
+False Omission Rate			: NaN%
+
+
+Payload: 75%
+Area Under the Curve	: 0.500000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			200		200
+Cover			0		0
+
+Accuracy					: 50.000000%
+True Positive Rate			: 100.000000%
+True Negative Rate			: 0.000000%
+False Positive Rate			: 100.000000%
+False Negative Rate			: 0.000000%
+Positive Predictive Value	: 50.000000%
+Negative Predictive Value	: NaN%
+False Discovery Rate		: 50.000000%
+False Omission Rate			: NaN%
+
+
+Payload: 100%
+Area Under the Curve	: 0.500000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			200		200
+Cover			0		0
+
+Accuracy					: 50.000000%
+True Positive Rate			: 100.000000%
+True Negative Rate			: 0.000000%
+False Positive Rate			: 100.000000%
+False Negative Rate			: 0.000000%
+Positive Predictive Value	: 50.000000%
+Negative Predictive Value	: NaN%
+False Discovery Rate		: 50.000000%
+False Omission Rate			: NaN%
+
+
+---------- Noise Poisson ----------
+Payload: 15%
+Area Under the Curve	: 0.973325
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			189		21
+Cover			11		179
+
+Accuracy					: 92.000000%
+True Positive Rate			: 94.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 5.500000%
+Positive Predictive Value	: 90.000000%
+Negative Predictive Value	: 94.210526%
+False Discovery Rate		: 10.000000%
+False Omission Rate			: 5.789474%
+
+
+Payload: 25%
+Area Under the Curve	: 0.973525
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			188		21
+Cover			12		179
+
+Accuracy					: 91.750000%
+True Positive Rate			: 94.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 6.000000%
+Positive Predictive Value	: 89.952153%
+Negative Predictive Value	: 93.717277%
+False Discovery Rate		: 10.047847%
+False Omission Rate			: 6.282723%
+
+
+Payload: 50%
+Area Under the Curve	: 0.973550
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			189		21
+Cover			11		179
+
+Accuracy					: 92.000000%
+True Positive Rate			: 94.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 5.500000%
+Positive Predictive Value	: 90.000000%
+Negative Predictive Value	: 94.210526%
+False Discovery Rate		: 10.000000%
+False Omission Rate			: 5.789474%
+
+
+Payload: 75%
+Area Under the Curve	: 0.973600
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			189		21
+Cover			11		179
+
+Accuracy					: 92.000000%
+True Positive Rate			: 94.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 5.500000%
+Positive Predictive Value	: 90.000000%
+Negative Predictive Value	: 94.210526%
+False Discovery Rate		: 10.000000%
+False Omission Rate			: 5.789474%
+
+
+Payload: 100%
+Area Under the Curve	: 0.973675
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			189		21
+Cover			11		179
+
+Accuracy					: 92.000000%
+True Positive Rate			: 94.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 5.500000%
+Positive Predictive Value	: 90.000000%
+Negative Predictive Value	: 94.210526%
+False Discovery Rate		: 10.000000%
+False Omission Rate			: 5.789474%
+
+
+---------- Scaling ----------
+Payload: 15%
+Area Under the Curve	: 0.740625
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			74		21
+Cover			126		179
+
+Accuracy					: 63.250000%
+True Positive Rate			: 37.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 63.000000%
+Positive Predictive Value	: 77.894737%
+Negative Predictive Value	: 58.688525%
+False Discovery Rate		: 22.105263%
+False Omission Rate			: 41.311475%
+
+
+Payload: 25%
+Area Under the Curve	: 0.740825
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			74		21
+Cover			126		179
+
+Accuracy					: 63.250000%
+True Positive Rate			: 37.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 63.000000%
+Positive Predictive Value	: 77.894737%
+Negative Predictive Value	: 58.688525%
+False Discovery Rate		: 22.105263%
+False Omission Rate			: 41.311475%
+
+
+Payload: 50%
+Area Under the Curve	: 0.741175
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			74		21
+Cover			126		179
+
+Accuracy					: 63.250000%
+True Positive Rate			: 37.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 63.000000%
+Positive Predictive Value	: 77.894737%
+Negative Predictive Value	: 58.688525%
+False Discovery Rate		: 22.105263%
+False Omission Rate			: 41.311475%
+
+
+Payload: 75%
+Area Under the Curve	: 0.741675
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			74		21
+Cover			126		179
+
+Accuracy					: 63.250000%
+True Positive Rate			: 37.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 63.000000%
+Positive Predictive Value	: 77.894737%
+Negative Predictive Value	: 58.688525%
+False Discovery Rate		: 22.105263%
+False Omission Rate			: 41.311475%
+
+
+Payload: 100%
+Area Under the Curve	: 0.742000
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			74		21
+Cover			126		179
+
+Accuracy					: 63.250000%
+True Positive Rate			: 37.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 63.000000%
+Positive Predictive Value	: 77.894737%
+Negative Predictive Value	: 58.688525%
+False Discovery Rate		: 22.105263%
+False Omission Rate			: 41.311475%
+
+
+---------- Rotate & Crop ----------
+Payload: 15%
+Area Under the Curve	: 0.249225
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			0		21
+Cover			200		179
+
+Accuracy					: 44.750000%
+True Positive Rate			: 0.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 100.000000%
+Positive Predictive Value	: 0.000000%
+Negative Predictive Value	: 47.229551%
+False Discovery Rate		: 100.000000%
+False Omission Rate			: 52.770449%
+
+
+Payload: 25%
+Area Under the Curve	: 0.251425
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			0		21
+Cover			200		179
+
+Accuracy					: 44.750000%
+True Positive Rate			: 0.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 100.000000%
+Positive Predictive Value	: 0.000000%
+Negative Predictive Value	: 47.229551%
+False Discovery Rate		: 100.000000%
+False Omission Rate			: 52.770449%
+
+
+Payload: 50%
+Area Under the Curve	: 0.251525
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			0		21
+Cover			200		179
+
+Accuracy					: 44.750000%
+True Positive Rate			: 0.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 100.000000%
+Positive Predictive Value	: 0.000000%
+Negative Predictive Value	: 47.229551%
+False Discovery Rate		: 100.000000%
+False Omission Rate			: 52.770449%
+
+
+Payload: 75%
+Area Under the Curve	: 0.251925
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			0		21
+Cover			200		179
+
+Accuracy					: 44.750000%
+True Positive Rate			: 0.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 100.000000%
+Positive Predictive Value	: 0.000000%
+Negative Predictive Value	: 47.229551%
+False Discovery Rate		: 100.000000%
+False Omission Rate			: 52.770449%
+
+
+Payload: 100%
+Area Under the Curve	: 0.251875
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			0		21
+Cover			200		179
+
+Accuracy					: 44.750000%
+True Positive Rate			: 0.000000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 100.000000%
+Positive Predictive Value	: 0.000000%
+Negative Predictive Value	: 47.229551%
+False Discovery Rate		: 100.000000%
+False Omission Rate			: 52.770449%
+
+
+---------- Compression ----------
+Payload: 15%
+Area Under the Curve	: 0.342925
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			1		21
+Cover			199		179
+
+Accuracy					: 45.000000%
+True Positive Rate			: 0.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 99.500000%
+Positive Predictive Value	: 4.545455%
+Negative Predictive Value	: 47.354497%
+False Discovery Rate		: 95.454545%
+False Omission Rate			: 52.645503%
+
+
+Payload: 25%
+Area Under the Curve	: 0.342900
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			1		21
+Cover			199		179
+
+Accuracy					: 45.000000%
+True Positive Rate			: 0.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 99.500000%
+Positive Predictive Value	: 4.545455%
+Negative Predictive Value	: 47.354497%
+False Discovery Rate		: 95.454545%
+False Omission Rate			: 52.645503%
+
+
+Payload: 50%
+Area Under the Curve	: 0.342475
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			1		21
+Cover			199		179
+
+Accuracy					: 45.000000%
+True Positive Rate			: 0.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 99.500000%
+Positive Predictive Value	: 4.545455%
+Negative Predictive Value	: 47.354497%
+False Discovery Rate		: 95.454545%
+False Omission Rate			: 52.645503%
+
+
+Payload: 75%
+Area Under the Curve	: 0.342150
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			1		21
+Cover			199		179
+
+Accuracy					: 45.000000%
+True Positive Rate			: 0.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 99.500000%
+Positive Predictive Value	: 4.545455%
+Negative Predictive Value	: 47.354497%
+False Discovery Rate		: 95.454545%
+False Omission Rate			: 52.645503%
+
+
+Payload: 100%
+Area Under the Curve	: 0.341375
+Threshold				: 0.700000
+				Actual Class
+Output Class	Stego	Cover
+Stego			1		21
+Cover			199		179
+
+Accuracy					: 45.000000%
+True Positive Rate			: 0.500000%
+True Negative Rate			: 89.500000%
+False Positive Rate			: 10.500000%
+False Negative Rate			: 99.500000%
+Positive Predictive Value	: 4.545455%
+Negative Predictive Value	: 47.354497%
+False Discovery Rate		: 95.454545%
+False Omission Rate			: 52.645503%
